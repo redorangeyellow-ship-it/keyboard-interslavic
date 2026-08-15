@@ -653,25 +653,30 @@
               },
               {
                 "id": "K_HYPHEN",
-                "text": "-",
+                "text": "-",        
+"nextlayer": "default"
                 "sk": [
                   {
                     "text": "–",
                     "id": "T_ENDASH"
+                "nextlayer": "default"
                   },
                   {
                     "text": "—",
                     "id": "T_EMDASH"
+                "nextlayer": "default"
                   }
                 ]
               },
               {
                 "id": "K_8",
                 "text": "*"
+                "nextlayer": "default"
               },
               {
                 "id": "K_SLASH",
                 "text": "/"
+                "nextlayer": "default"
               },
               {
                 "id": "K_BKSP",
